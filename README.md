@@ -1,0 +1,2 @@
+# skynet
+Automatic configuration resolution
